@@ -1,0 +1,62 @@
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Buffers.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Memory.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Text.Json.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Buffers.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Memory.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Text.Json.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.AssemblyReference.cache
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Form.resources
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentI.AB51F97D.Up2Date
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\monmon\OneDrive\Desktop\StudentInfo\StudentInfo\obj\Debug\StudentInfo.pdb
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\StudentInfo.exe.config
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\StudentInfo.exe
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\StudentInfo.pdb
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Buffers.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Memory.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Text.Json.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Buffers.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Memory.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Text.Json.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.csproj.AssemblyReference.cache
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.Form.resources
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.Properties.Resources.resources
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.csproj.GenerateResource.cache
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.csproj.CoreCompileInputs.cache
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentI.AB51F97D.Up2Date
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.exe
+C:\Users\athlo\OneDrive\Desktop\New folder\EWAN\StudentInfo\obj\Debug\StudentInfo.pdb
