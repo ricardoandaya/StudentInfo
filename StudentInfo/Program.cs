@@ -19,13 +19,13 @@ namespace StudentInfo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            using (var httpClient = new HttpClient())
+            using (HttpClient httpClient = new HttpClient())
             {
-                httpClient.BaseAddress = new Uri("https://studentinfoapi-81rs.onrender.com/api/students");
+                httpClient.BaseAddress = new Uri("https://studentinfoapi-djtm.onrender.com/api/students");
                 httpClient.Timeout = TimeSpan.FromSeconds(30);
 
                 IStudentDataServices studentDataServices = new StudentAPIService(httpClient);
-                Application.Run(new Form(studentDataServices));
+                Application.Run(new Form1(studentDataServices));
             }
         }
     }

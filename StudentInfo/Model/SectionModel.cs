@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace StudentInfo.Model
 {
-    public class SectionModel
+  public class SectionModel
     {
         public int Id { get; set; }
-        public string Name { get; set; } = "";
+        public string Name { get; set; }
     }
 }
